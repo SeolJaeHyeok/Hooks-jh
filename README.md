@@ -15,7 +15,7 @@ NPM으로 설치 가능한 여러가지 React Hooks
 - [x] useScroll
 - [x] useFullScreen
 - [x] useNotification
-- [ ] useAxios
+- [x] useAxios
 
 # useEffect
 
