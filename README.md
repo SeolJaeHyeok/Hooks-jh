@@ -9,10 +9,9 @@ NPM으로 설치 가능한 여러가지 React Hooks
 - [x] useHover
 - [x] useConfirm
 - [x] usePreventLeave
-- [ ] usePageLeave
-- [ ] useBeforeLeave
-- [ ] useFadeIn
-- [ ] useNetwork
+- [x] useBeforeLeave
+- [x] useFadeIn
+- [x] useNetwork
 - [ ] useScroll
 - [ ] useFullScreen
 - [ ] useNotification
