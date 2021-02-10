@@ -1,4 +1,4 @@
-const useClick = (onHover) => {
+export const useHover = (onHover) => {
   const element = useRef();
 
   useEffect(() => {
