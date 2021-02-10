@@ -1,7 +1,5 @@
 # nooks
 
-NPM으로 설치 가능한 여러가지 React Hooks
-
 - [x] useTitle
 - [x] useInput
 - [x] useTabs
@@ -21,9 +19,9 @@ NPM으로 설치 가능한 여러가지 React Hooks
 
 참고 블로그 : https://rinae.dev/posts/a-complete-guide-to-useeffect-ko?fbclid=IwAR0GA5oVh6map6xxpUGA_AUJj_nHIWKh1TyoHAuHQZ6HqASS4sm8yD1YfwY
 
-# Nooks
+# Hooks-jh
 
-Collection of sexy React Hooks ready to install with NPM
+NPM으로 설치 가능한 여러가지 React Hooks
 
 ## Each hook has its own pacakge
 
