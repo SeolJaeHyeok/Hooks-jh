@@ -13,7 +13,7 @@ NPM으로 설치 가능한 여러가지 React Hooks
 - [x] useFadeIn
 - [x] useNetwork
 - [x] useScroll
-- [ ] useFullScreen
+- [x] useFullScreen
 - [ ] useNotification
 - [ ] useAxios
 
